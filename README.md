@@ -1,5 +1,5 @@
 # OML
-The Open Material License: A Copyleft License for Open-Source Materials Science and Biology
+The Open Material License: A Copyleft License for Open-Source Materials Science and Biology. (Adapted from the Academic Free License v. 3.0 https://opensource.org/licenses/AFL-3.0)
 
 
 # Full Text
