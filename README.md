@@ -1,7 +1,8 @@
 # OML
 The Open Material License: A Copyleft License for Open-Source Materials Science and Biology
 
-# FULL TEXT
+
+# Full Text
 
 Open Material License ("OML") v. 0.1
 Copyright (c) 2017 Michael J. Brodeur <michael.brodeur@unseen.is>
